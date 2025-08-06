@@ -5,6 +5,10 @@
 # INSTALL
 
 ```sh
+go install github.com/CarsonSlovoka/name2csv@latest
+```
+
+```sh
 git clone https://github.com/CarsonSlovoka/name2csv.git
 cd name2csv
 go install .
